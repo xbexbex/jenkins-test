@@ -10,7 +10,7 @@ export default class Main extends Component {
   render() {
     return (
       <div className="main-container">
-        <p>Jenkins test</p>
+        <p>Jenkins testt</p>
         <img
           src={require('Assets/loading.svg')}>
         </img>
